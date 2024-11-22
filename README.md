@@ -1,7 +1,3 @@
-# TEMPLATE-base-repo
+# Dataset Documentation
 
-Create a new branch from dev, add changes on the new branch you just created.
-
-Open a Pull Request to dev. Add your PM and TPM as reviewers. 
-
-At the end of the semester during project wrap up open a final Pull Request to main from dev branch.
+If your project repo does not have a the dataset-documentation folder, copy the contents of the folder from this repo and add it to your project repo. 
